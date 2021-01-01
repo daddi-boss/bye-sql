@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hi";
+    cout << "ByeSQL database";
     return 0;
 }
